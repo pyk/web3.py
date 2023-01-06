@@ -89,7 +89,7 @@ setup(
         "hexbytes>=0.1.0",
         "jsonschema>=4.0.0",
         "lru-dict>=1.1.6",
-        "protobuf>=4.21.6",
+        "protobuf>=3.20.3",
         "pywin32>=223;platform_system=='Windows'",
         "requests>=2.16.0",
         # remove typing_extensions after python_requires>=3.8, see web3._utils.compat
